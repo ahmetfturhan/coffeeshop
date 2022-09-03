@@ -2,10 +2,10 @@
 
 Functional coffee ordering website with mysql database and an admin page.
 
-##### Video of the Website #####
+## Demo Video of the Website
 https://youtu.be/mtgMJI0Rt9o
 
-Specs
+## Features
 -Customers can signup and signin with their accounts  
 -Responsive design with Bootstrap 5.1.3  
 -MySQL database to keep the records of the users, coffees, orders, etc.  
